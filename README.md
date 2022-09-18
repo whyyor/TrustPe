@@ -1,9 +1,12 @@
-# Salvia-kit Dashboard v6 Next.js
 
-![Salvia-kit Dashboard v6](https://www.salvia-kit.com/images/dashboards/dashv6.jpg)
+It’s common for consumers to sell second hand product these days on platform like olx, ebay, etc. But there is no trust between consumers as ebay and olx can’t verify if the product is delivered the right way and there are multiple scams.
 
-## 📋 Documentation
-You can see the documentation on [http://localhost:3000/admin/documentation](http://localhost:3000/admin/documentation)
+
+
+With the help of blockchain technology we introduce our project TrustPe. TrustPe ensures that the payment is only handed over after delivery. And it ensures the seller that if your product is delivered your payment is guarenteed.
+
+
+The seller sends the item and the buyer stakes the tokens, there is a verifier which verifies if the item is delivered. This verifier could be the delivery person. Once the item is delivered the money the sent to seller.The 10% of transaction fees goes back to buyer. If in case the product is not delivered the money is sent back to staker or if the delivery is late 10% is deducted from the total amount.
 
 ## Browser Support
 
