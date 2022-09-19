@@ -1,3 +1,34 @@
+### How to run
+##Pre-requisites:
+Metamask Installed in the browser
+
+##Steps and commands:
+1) Run command “git clone https://github.com/whyyor/TrustPe”
+2) Run command “npm install”
+3) Run command “npx hardhat node”
+4) Open a new terminal and run the following:
+npx hardhat compile
+npx hardhat run scripts/deploy.js –network localhost
+npm run dev
+5) Go to “http://localhost:3000/” in browser
+
+Addresses with 50,000 fake DAI with their private key(import these accounts into
+metamask using the private keys):
+1) Account:
+0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266
+Private Key:
+0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
+2) Account:
+0x70997970C51812dc3A010C7d01b50e0d17dc79C8
+Priv key:
+0x59c6995e998f97a5a0044966f0945389dc9e86dae88c7a8412f4603b6b7869
+0d
+3) Account:
+0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC
+Priv key:
+0x5de4111afa1a4b94908f83103eb1f1706367c2e68ca870fc3fb9a804cdab365
+
+
 
 It’s common for consumers to sell second hand product these days on platform like olx, ebay, etc. But there is no trust between consumers as ebay and olx can’t verify if the product is delivered the right way and there are multiple scams.
 
